@@ -1,0 +1,9 @@
+﻿  Assembling main.asm...
+main.asm(273): warning A6004: procedure argument or local not referenced : unsize
+main.asm(300): warning A6004: procedure argument or local not referenced : ssize
+main.asm(306): warning A6004: procedure argument or local not referenced : hInstance
+main.asm(306): warning A6004: procedure argument or local not referenced : fdwReason
+main.asm(306): warning A6004: procedure argument or local not referenced : lpReserved
+     Creating library E:\FCIS\3rd Year\First Term\Assembly\Sudoku Project\Final\mohamed_sobhy_zanaty\GUI final1\a5eran-eshta3l\DLLSampleTest - Copy\Debug\Project.lib and object E:\FCIS\3rd Year\First Term\Assembly\Sudoku Project\Final\mohamed_sobhy_zanaty\GUI final1\a5eran-eshta3l\DLLSampleTest - Copy\Debug\Project.exp
+  Project.vcxproj -> E:\FCIS\3rd Year\First Term\Assembly\Sudoku Project\Final\mohamed_sobhy_zanaty\GUI final1\a5eran-eshta3l\DLLSampleTest - Copy\Debug\Project.dll
+  Project.vcxproj -> E:\FCIS\3rd Year\First Term\Assembly\Sudoku Project\Final\mohamed_sobhy_zanaty\GUI final1\a5eran-eshta3l\DLLSampleTest - Copy\Debug\Project.pdb (Full PDB)
